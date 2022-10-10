@@ -2,4 +2,5 @@
 AI based discourse for Banking Industry
 
 We are Working! on it!!!
-Status : initialization...
+Status : Ideation Phase Completed 
+         Phases - 1 is working on it
