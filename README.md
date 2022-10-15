@@ -12,8 +12,9 @@
   
  ># **Ai Based Discourse For Banking Industry**      
 </div>
-<H3 align="center">Team ID: `PNT2022TMID40098` <BR>
-Technology: `Airtificial intelligence`</H3>
+
+>Team ID: `PNT2022TMID40098` <br>
+Technology: `Airtificial intelligence`
 
 # **<img src="https://github.com/sadain/My-assets/blob/main/teamwork%20hands%20graphic.png" width="30px" height="30px" alt="Teams"></img> TEAM MEMBERS**
 
