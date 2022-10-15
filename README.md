@@ -15,7 +15,7 @@
 <H3 align="center">Team ID: `PNT2022TMID40098` <BR>
 Technology: `Airtificial intelligence`</H3>
 
-# **<img href="https://github.com/sadain/My-assets/blob/main/teamwork%20hands%20graphic.png" width="30%" height="30%" alt="Teams"></img>&nbsp; TEAM MEMBERS**
+# **<img src="https://github.com/sadain/My-assets/blob/main/teamwork%20hands%20graphic.png" width="30%" height="30%" alt="Teams"></img>&nbsp; TEAM MEMBERS**
 
 
 ```
