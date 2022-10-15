@@ -22,8 +22,7 @@ Technology: `Airtificial intelligence`</H3>
 SADAIN ABDULLAH N
 EARNEST WESLEY S
 ZAHEEB AFNAN A
-YASHIKA U  
-hi   
+YASHIKA U   
 ```
 
 
