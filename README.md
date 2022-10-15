@@ -15,17 +15,18 @@
 <H3 align="center">Team ID: `PNT2022TMID40098` <BR>
 Technology: `Airtificial intelligence`</H3>
 
-# **<img src="https://github.com/sadain/My-assets/blob/main/teamwork%20hands%20graphic.png" width="30px" height="30px" alt="Teams"></img>&nbsp; TEAM MEMBERS**
+# **<img src="https://github.com/sadain/My-assets/blob/main/teamwork%20hands%20graphic.png" width="30px" height="30px" alt="Teams"></img> TEAM MEMBERS**
 
 
 ```
 SADAIN ABDULLAH N
 EARNEST WESLEY S
 ZAHEEB AFNAN A
-YASHIKA U     
+YASHIKA U  
+hi   
 ```
 
-hi
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/IBM-EPBL/IBM-Project-12106-1659372335.svg?style=for-the-badge
 [contributors-url]:https://github.com/IBM-EPBL/IBM-Project-12106-1659372335/graphs/contributors
