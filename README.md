@@ -8,7 +8,7 @@
 # IBM-Project-12106-1659372335
   </div> 
   
-  <div align="center">
+  <div align="center" color="Black">
   
  ># **Ai Based Discourse For Banking Industry**      
 <h3>
