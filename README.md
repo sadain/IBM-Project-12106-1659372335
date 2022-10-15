@@ -17,13 +17,17 @@ Technology: `Airtificial intelligence`</H3>
 
 # **<img href="https://github.com/sadain/My-assets/blob/main/teamwork%20hands%20graphic.png" width="30%" height="30%" alt="Teams"></img>&nbsp; TEAM MEMBERS**
 
+
 ```
 SADAIN ABDULLAH N
 EARNEST WESLEY S
 ZAHEEB AFNAN A
 YASHIKA U     
 ```  
-
+#
+<a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://github.com/gogulkrish/readmetemp/blob/master/images/IBM_logo.svg.png" alt="Logo" width="320" height="128">
+  </a>
 
 [contributors-shield]: https://img.shields.io/github/contributors/IBM-EPBL/IBM-Project-12106-1659372335.svg?style=for-the-badge
 [contributors-url]:https://github.com/IBM-EPBL/IBM-Project-12106-1659372335/graphs/contributors
