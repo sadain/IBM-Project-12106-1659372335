@@ -15,7 +15,7 @@
 <H3 align="center">Team ID: `PNT2022TMID40098` <BR>
 Technology: `Airtificial intelligence`</H3>
 
-# **<img src="https://drive.google.com/file/d/1KmhUDa-nBWbEZZgLPkkZ0kkhoJPfPV3c/view?usp=drivesdK" width="30px" height="30px"></img>&nbsp; TEAM MEMBERS**
+# **<img href="https://github.com/sadain/My-assets/blob/main/teamwork%20hands%20graphic.png" width="30px" height="30px" border="none"></img>&nbsp; TEAM MEMBERS**
 
 ```
 SADAIN ABDULLAH N
