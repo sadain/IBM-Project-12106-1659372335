@@ -13,12 +13,12 @@
  ># **Ai Based Discourse For Banking Industry**      
 <h3>
 
-> **Team ID: `PNT2022TMID40098` <br> Technology: `Airtificial intelligence`**
+**Team ID: `PNT2022TMID40098` <br> Technology: `Airtificial intelligence`**
 
 </h3>
 </div>
 
-# **<img src="https://github.com/sadain/My-assets/blob/main/teamwork%20hands%20graphic.png" width="30px" height="30px" alt="Teams"></img> TEAM MEMBERS**
+# **<img src="https://github.com/sadain/My-assets/blob/main/teamwork%20hands%20graphic.png" width="35px" height="35px" alt="Teams"></img> TEAM MEMBERS**
 
 
 ```
