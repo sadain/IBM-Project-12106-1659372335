@@ -35,4 +35,4 @@ YASHIKA U
 [forks-shield]: https://img.shields.io/github/forks/IBM-EPBL/IBM-Project-12106-1659372335.svg?style=for-the-badge
 [forks-url]:https://github.com/IBM-EPBL/IBM-Project-12106-1659372335/network/members
 [stars-shield]: https://img.shields.io/github/stars/IBM-EPBL/IBM-Project-12106-1659372335.svg?style=for-the-badge
-[stars-url]:https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/stargazers
+[stars-url]:https://github.com/IBM-EPBL/IBM-Project-12106-1659372335/stargazers
