@@ -31,8 +31,8 @@ YASHIKA U
 # Project Links:
 
 
-<a href="http://socio.epizy.com">Project Website Link - socio.epizy.com</a>
-<a href="https://youtu.be/v_uGAYcLt2M" target="__blank__">Project Demonstration - click here</a>
+<h1><a href="http://socio.epizy.com">Project Website Link - socio.epizy.com</a></h1><br>
+<h1><a href="https://youtu.be/v_uGAYcLt2M" target="__blank__">Project Demonstration - click here</a></h1>
 
 # Problem Statement Definition:
 
